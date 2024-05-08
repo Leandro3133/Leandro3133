@@ -11,6 +11,6 @@ meu nome é leandro
 00001163109423sp@al.eucacao.sp.gov.br
 
 @_leandro.sl
-![]()
 
-![(https://media1.tenor.com/m/U8usjYcMf9UAAAAd/yuri-alberto-solando-neto-yuri-alberto.gif)
+
+![](https://media1.tenor.com/m/U8usjYcMf9UAAAAd/yuri-alberto-solando-neto-yuri-alberto.gif)
